@@ -17,6 +17,16 @@ You do not need to install Python or configure any libraries on your personal co
 3. Read through the descriptions provided in the notebook.
 4. Run the cells sequentially to train the LSTM model and view the forecasting results.
 
+## 📝 Homework Submission Requirements
+
+To receive credit for this practice exercise, you must submit proof of completion generated directly by the notebook.
+
+1. Run the entire notebook from start to finish.
+2. Scroll down to the final cell of the notebook. If the model runs successfully, it will generate a visual **Submission Verification Report** box.
+3. This report contains vital information, including your Final Validation MAPE, dataset details, and a unique **Submission Hash**.
+4. **Take a clear screenshot** of this final report box (ensuring the `Status: ✓ COMPLETED` and your hash are visible).
+5. Upload this screenshot to our course submission portal as your official homework proof.
+
 ## ⚙️ Technical Details
 * **Language:** Python 3.10
 * **Core Libraries:** TensorFlow/Keras, Pandas, NumPy, Scikit-learn, Matplotlib
