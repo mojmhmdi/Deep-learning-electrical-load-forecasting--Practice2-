@@ -4,7 +4,7 @@
 
 Welcome! This repository contains the code and dataset for our practice exercise on electrical load forecasting using Long Short-Term Memory (LSTM) neural networks. 
 
-The provided Jupyter Notebook includes a detailed, cell-by-cell breakdown of the model, designed specifically for students to gain hands-on experience with applied deep learning in energy systems.
+The provided Jupyter Notebook includes a detailed, cell-by-cell breakdown of the model, designed specifically to gain hands-on experience with applied deep learning in energy systems.
 
 ## 📊 Dataset
 The data used in this practice is the **hourly electrical load demand** for Johor city in Malaysia. 
