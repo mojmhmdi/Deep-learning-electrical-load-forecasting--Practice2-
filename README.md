@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mojmhmdi/Deep-learning-electrical-load-forecasting/blob/master/Practice_2.ipynb)
+
+
+
 # paper with code
 
 - This repository contanins the codes and data for electrical load forecasting model using LSTM. The cell by cell description is provided in the notebook.
