@@ -27,4 +27,4 @@ The methodology and results corresponding to this code are detailed in **Section
 
 > **Stochastic Energy Management and Scheduling of Microgrids in Correlated Environment: A Deep Learning-Oriented Approach**
 > *Mojtaba Mohammadi, et al.*
-> [Read the full paper on ResearchGate](https://www.researchgate.net/profile/Mojtaba-Mohammadi-11/publication/350237035_Stochastic_Energy_Management_and_Scheduling_of_Microgrids_in_Correlated_Environment_A_Deep_Learning-Oriented_approach/links/605e38ca92851cd8ce6c1697/Stochastic-Energy-Management-and-Scheduling-of-Microgrids-in-Correlated-Environment-A-Deep-Learning-Oriented-approach.pdf)
+> [Read the full paper on ResearchGate]([https://www.researchgate.net/profile/Mojtaba-Mohammadi-11/publication/350237035_Stochastic_Energy_Management_and_Scheduling_of_Microgrids_in_Correlated_Environment_A_Deep_Learning-Oriented_approach/links/605e38ca92851cd8ce6c1697/Stochastic-Energy-Management-and-Scheduling-of-Microgrids-in-Correlated-Environment-A-Deep-Learning-Oriented-approach.pdf](https://www.sciencedirect.com/science/article/pii/S2210670721001463))
