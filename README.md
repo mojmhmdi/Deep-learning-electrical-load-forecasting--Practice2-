@@ -1,10 +1,3 @@
-Here is a fully rewritten README.md that looks professional, academic, and is specifically tailored to be user-friendly for your Bachelor students.
-
-I fixed the typos, formatted the paper citation so it looks clean, and added a specific section giving the students instructions on how to use the Colab link.
-
-You can copy everything inside the block below and paste it directly into your GitHub repository:
-
-Markdown
 # Practice 2: AI-Based Short-Term Electrical Load Forecasting using LSTM
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mojmhmdi/Deep-learning-electrical-load-forecasting/blob/master/Practice_2.ipynb)
@@ -34,4 +27,4 @@ The methodology and results corresponding to this code are detailed in **Section
 
 > **Stochastic Energy Management and Scheduling of Microgrids in Correlated Environment: A Deep Learning-Oriented Approach**
 > *Mojtaba Mohammadi, et al.*
-> [Read the full paper on ResearchGate](https://www.researchgate.net/profile/Mojtaba-Mohamm
+> [Read the full paper on ResearchGate](https://www.researchgate.net/profile/Mojtaba-Mohammadi-11/publication/350237035_Stochastic_Energy_Management_and_Scheduling_of_Microgrids_in_Correlated_Environment_A_Deep_Learning-Oriented_approach/links/605e38ca92851cd8ce6c1697/Stochastic-Energy-Management-and-Scheduling-of-Microgrids-in-Correlated-Environment-A-Deep-Learning-Oriented-approach.pdf)
